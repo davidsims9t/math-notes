@@ -38,3 +38,7 @@ tan(30) = 1 / sqrt(3)
 sin(60) = sqrt(3) / 2
 cos(60) = 1 / 2
 tan(60) = sqrt(3)
+
+sec - opposite of cosine (1/cos)
+csc - opposite of sin (1/sin)
+cot - opposite of tan (1/tan)
