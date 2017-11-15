@@ -11,6 +11,10 @@
 
 So 20 is 5 * 2 * 2.
 
+## Logarithms
+
+To calculate substraction such as log(2)8 - log(2)2. You have divide 8 by 2, so the answer is log(2)4. Writing a log as an exponential such as log(2)4 = y is 2^y = 4.
+
 ## Trigonometry
 
 Only applies to right triangles.
