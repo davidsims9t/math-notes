@@ -29,6 +29,11 @@ The midpoint of a line segment is calculated by (x1 - x2) / 2, (y1 - y2) / 2.
 
 To find the slope use ∆y / ∆x, so (-1 - 3) / (-3 - 3) = 2/3.
 
+Parallel, perpendicular, or neither are determined by the slope. 
+When the slopes are equal, then the lines are parallel.
+When the first slope is 0 and the second is undefined, then the lines are perpendicular.
+Neither is when the slope is not equal or the opposite.
+
 ## Trigonometry
 
 Only applies to right triangles.
