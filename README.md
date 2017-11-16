@@ -15,6 +15,20 @@ So 20 is 5 * 2 * 2.
 
 To calculate substraction such as log(2)8 - log(2)2. You have divide 8 by 2, so the answer is log(2)4. Writing a log as an exponential such as log(2)4 = y is 2^y = 4.
 
+## Geometry
+
+Points- a point in space
+Segments- two connecting points in a line (no direction)
+Lines- Extends infinity in both directions
+Rays- Extends infinity in one direction
+Angles - Represented by a <. Can be multiple angles, so <BAC.
+
+To indicate the length of a line segement use mAB, which equals |a-b| or |b-a|.
+
+The midpoint of a line segment is calculated by (x1 - x2) / 2, (y1 - y2) / 2.
+
+To find the slope use ∆y / ∆x, so (-1 - 3) / (-3 - 3) = 2/3.
+
 ## Trigonometry
 
 Only applies to right triangles.
