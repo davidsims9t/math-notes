@@ -11,9 +11,15 @@
 
 So 20 is 5 * 2 * 2.
 
-## Logarithms
+## Algebra
+
+### Logarithms
 
 To calculate substraction such as log(2)8 - log(2)2. You have divide 8 by 2, so the answer is log(2)4. Writing a log as an exponential such as log(2)4 = y is 2^y = 4.
+
+### Inequalities
+
+Whenever you divide by a negative number you have to flip the less-than or greater than sign.
 
 ## Geometry
 
@@ -66,6 +72,10 @@ sec - opposite of cosine (1/cos)
 csc - opposite of sin (1/sin)
 cot - opposite of tan (1/tan)
 
-### Inequalities
+### Compliments
 
-Whenever you divide by a negative number you have to flip the less-than or greater than sign.
+If you have a negative angle, you won't be able to find the compliment or in other words it doesn't exist.
+
+To find the compliment of an angle, it must equal to 90 degrees. So if you have π/6 then the complementary angle would be π/3. Since π/2 - π/6 = 3π/6 - π/6 = 2π/6 = π/3.
+
+For the supplementary angle, you use π - π/6 = 6π/6 - π/6 = 5π/6.
