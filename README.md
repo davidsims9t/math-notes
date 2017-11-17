@@ -65,3 +65,7 @@ tan(60) = sqrt(3)
 sec - opposite of cosine (1/cos)
 csc - opposite of sin (1/sin)
 cot - opposite of tan (1/tan)
+
+### Inequalities
+
+Whenever you divide by a negative number you have to flip the less-than or greater than sign.
