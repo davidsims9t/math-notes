@@ -35,7 +35,7 @@ The midpoint of a line segment is calculated by (x1 - x2) / 2, (y1 - y2) / 2.
 
 To find the slope use ∆y / ∆x, so (-1 - 3) / (-3 - 3) = 2/3.
 
-Parallel, perpendicular, or neither are determined by the slope. 
+Parallel, perpendicular, or neither are determined by the slope.
 When the slopes are equal, then the lines are parallel.
 When the first slope is 0 and the second is undefined, then the lines are perpendicular.
 Neither is when the slope is not equal or the opposite.
@@ -84,3 +84,15 @@ For the supplementary angle, you use π - π/6 = 6π/6 - π/6 = 5π/6.
 
 1 degree = 60' (minutes) or 3600" (seconds).
 
+### Parametric Curves
+
+Eliminating the parameter.
+
+You can write x = 3 cos(t) as cos(t) = x/3.
+y = 3 sin(t).
+X is adjacent and 3 is the hypotenuse.
+So x^2 + b^2 = 9. b = sqrt(9 - x^2).
+Y = 3 (sqrt(9 - x^2) / 3) or y = sqrt(9 - x^2).
+y ^ 2 = 9 - x^2 or x ^ 2 + y ^ 2 = 9.
+Therefore, x = 3, y = 0.
+Since 3 cos(0) = 3 and 3 sin(0) = 0.
