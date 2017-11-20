@@ -79,3 +79,8 @@ If you have a negative angle, you won't be able to find the compliment or in oth
 To find the compliment of an angle, it must equal to 90 degrees. So if you have π/6 then the complementary angle would be π/3. Since π/2 - π/6 = 3π/6 - π/6 = 2π/6 = π/3.
 
 For the supplementary angle, you use π - π/6 = 6π/6 - π/6 = 5π/6.
+
+### Converting to DMS
+
+1 degree = 60' (minutes) or 3600" (seconds).
+
