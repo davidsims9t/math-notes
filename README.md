@@ -84,6 +84,10 @@ For the supplementary angle, you use π - π/6 = 6π/6 - π/6 = 5π/6.
 
 1 degree = 60' (minutes) or 3600" (seconds).
 
+### Converting to Radians
+
+Multiple the degree by (2π/360) or (π/180) to get the result in radians. To get degrees multiply by (180/π) or (360/2π) to get the radian measure.
+
 ### Parametric Curves
 
 Eliminating the parameter.
