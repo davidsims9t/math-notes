@@ -40,6 +40,12 @@ When the slopes are equal, then the lines are parallel.
 When the first slope is 0 and the second is undefined, then the lines are perpendicular.
 Neither is when the slope is not equal or the opposite.
 
+### Euler's Diagram
+
+Conditional: If-then statement
+Hypothesis: The condition
+Conclusion: The result
+
 ## Trigonometry
 
 Only applies to right triangles.
