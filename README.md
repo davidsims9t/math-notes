@@ -88,6 +88,10 @@ For the supplementary angle, you use π - π/6 = 6π/6 - π/6 = 5π/6.
 
 Multiple the degree by (2π/360) or (π/180) to get the result in radians. To get degrees multiply by (180/π) or (360/2π) to get the degree measure. 1 = (180/π). (π/180) = 1.
 
+### Sketching the Arc on a Unit Circle
+
+t = 12. (12 / 2π) = (6 / π) = 1.91. 0.91 * 360 = 328.
+
 ### Parametric Curves
 
 Eliminating the parameter.
