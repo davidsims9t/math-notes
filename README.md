@@ -113,3 +113,8 @@ Y = 3 (sqrt(9 - x^2) / 3) or y = sqrt(9 - x^2).
 y ^ 2 = 9 - x^2 or x ^ 2 + y ^ 2 = 9.
 Therefore, x = 3, y = 0.
 Since 3 cos(0) = 3 and 3 sin(0) = 0.
+
+### Area of Circular Sectors
+
+A = (1/2) (100)^2 (5π/4)
+A = (50,000π/8) = 6250π
