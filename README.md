@@ -40,6 +40,9 @@ When the slopes are equal, then the lines are parallel.
 When the first slope is 0 and the second is undefined, then the lines are perpendicular.
 Neither is when the slope is not equal or the opposite.
 
+To find the distance use D = sqrt((x2 - x1)^2 + (y2 - y1)^2)
+To find the 3d distance use D = sqrt((x2 - x1)^2 + (y2 - y1)^2 + (z2 - z1)^2)
+
 ### Euler's Diagram
 
 Conditional: If-then statement
