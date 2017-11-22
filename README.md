@@ -114,6 +114,18 @@ y ^ 2 = 9 - x^2 or x ^ 2 + y ^ 2 = 9.
 Therefore, x = 3, y = 0.
 Since 3 cos(0) = 3 and 3 sin(0) = 0.
 
+Write an equation as a parametric curve.
+
+sin^2(x) + cos^2(x) = 1
+
+((x - 1) ^ 2) / 4 + ((y - 0) ^ 2) / 4 = 1
+Rewrite as: ((x - 1) / 2) ^ 2 + ((y - 0) / 2) ^ 2 = 1
+sin(t) = (x - 1)/2
+cos(t) = y/2
+2sin(t) = x - 1
+x = 1 + 2sin(t)
+y = 2cos(t)
+
 ### Area of Circular Sectors
 
 A = (1/2) (100)^2 (5π/4)
