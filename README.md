@@ -81,6 +81,13 @@ sec - opposite of cosine (1/cos)
 csc - opposite of sin (1/sin)
 cot - opposite of tan (1/tan)
 
+cot(4π/3) = 1/tan(4π/3) = 1/(sin(4π/3)/cos(4π/3)) = 1 * (sin(4π/3)/cos(4π/3)) or (sin(4π/3)/cos(4π/3)).
+(sin(4π/3)/cos(4π/3)) = (-(1/2) / -(sqrt(3)/2)) = (1/2) * (2/sqrt(3)) = (1/sqrt(3)) * (sqrt(3)/sqrt(3)) = (sqrt(3)/3)
+
+csc(-7π/4) = csc(π/4) = 1/sin(π/4) = (sqrt(2)/sqrt(2), sqrt(2)/sqrt(2)) = 1/(sqrt(2)/sqrt(2)) = (2/sqrt(2)) * sqrt(2) = sqrt(2)
+
+tan(31π/2) = sin(3π/2)/cos(3π/2) = -1 / 0 = undefined
+
 ### Compliments
 
 If you have a negative angle, you won't be able to find the compliment or in other words it doesn't exist.
