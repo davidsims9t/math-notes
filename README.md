@@ -88,6 +88,30 @@ csc(-7π/4) = csc(π/4) = 1/sin(π/4) = (sqrt(2)/sqrt(2), sqrt(2)/sqrt(2)) = 1/(
 
 tan(31π/2) = sin(3π/2)/cos(3π/2) = -1 / 0 = undefined
 
+### Is the Point a Circle, Single Point, or No Points
+
+x^2 + y^2 - 6x - 4y + 13 = 0
+x^2 - 6x + y^2 - 4y = -13
+
+(-6/2) = 3^2 = 9
+
+So 
+
+x^2 - 6x + 9 + y^2 - 4y = -13 + 9
+
+(-4/2) = 2^2 = 4
+
+x^2 - 6x + 9 + y^2 - 4y + 4 = -13 + 9 + 4
+
+(x^2 - 6x + 9) = (x - 3)^2
+(y^2 - 4y + 4) = (y - 2)^2
+
+(x - 3)^2 + (y - 2)^2 = 0
+
+If r^2 > 0, then it's a circle
+If r^2 = 0, then it's a single point
+If r^2 < 0, then it's no points
+
 ### Compliments
 
 If you have a negative angle, you won't be able to find the compliment or in other words it doesn't exist.
